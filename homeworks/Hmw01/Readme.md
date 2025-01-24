@@ -61,18 +61,18 @@ Given the following `docker-compose.yaml`, what is the `hostname` and `port` tha
         name: vol-pgadmin_data
 ```
 
-### ***ANSWER***
+### **ANSWER**
 
 `db:5432` and `postgres:5432`
 
 ## Question 3. Trip Segmentation Count
 
 During the period of October 1st 2019 (inclusive) and November 1st 2019 (exclusive), how many trips, **respectively**, happened:
+
 1. Up to 1 mile
 2. In between 1 (exclusive) and 3 miles (inclusive),
 3. In between 3 (exclusive) and 7 miles (inclusive),
 4. In between 7 (exclusive) and 10 miles (inclusive),
-5. Over 10 miles 
+5. Over 10 miles
 
 ### **ANSWER**
-
